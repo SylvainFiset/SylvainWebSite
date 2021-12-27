@@ -35,7 +35,7 @@ This is a template example for lab journaling. Students in Matt Crump's Human Co
 </div>
 <div class="col-sm-6">
 
-### [rmarkdown logo](https://crumplab.github.io)
+### [--- rmarkdown logo ---](https://sylvainfiset.github.io)
 
 <a href = "https://sylvainfiset.github.io">
 ![](images/logo copie.png)
