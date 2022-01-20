@@ -1,0 +1,31 @@
+---
+title: "Posts"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    collapsed: true
+    number_sections: false
+    toc_depth: 2
+    #code_folding: hide
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
+```
+
+Voici quelques idées qui me viennent en fonction du développement du livre
+
+# Post 1
+
+2022 | 01 | 10 Dernière compilation : `r Sys.Date()`
+
+Ajouter un chapitre sur l'utilisation de RStudio Cloud. Certains étudiants ne peuvent installer R et/ou RStudio IDE sur leur ordinateur et l'option web est une alternative intéressante pour eux.
+
+# Post 2
+
+2022 | 01 | 18 Dernière compilations : `r Sys.Date()`
+
+Ajouter une section sur l'organisation d'un script R pour l'analyse de données.
+
+***
